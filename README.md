@@ -2,6 +2,8 @@
 I developed an Earthquake prediction model that seeks to predict magnitudes and locations from the years 2006 through 2011 (which were the testing years) for my final project in Data Science at Boston University.
 
 Coding Instructions:
+Unzip Final_Project.zip
+
 Go into Command Prompt and do:
 
 pip install sklearn (make sure sklearn is installed)
